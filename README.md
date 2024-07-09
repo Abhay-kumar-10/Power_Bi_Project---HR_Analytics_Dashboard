@@ -17,7 +17,7 @@ Crafted a sleek dashboard integrating Cards, Area charts, treemap, Column and Ba
 
 # HR_Analytics_Dashboard
 ![Screenshot HR atliq](https://github.com/Abhay-kumar-10/Power_Bi_Project---HR_Analytics_Dashboard/assets/174067313/04475b7e-0821-4e0a-af7e-b3f84218659b)
-📊 𝐋𝐢𝐯𝐞 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 :
+📊 𝐋𝐢𝐯𝐞 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 :https://shorturl.at/Nb5gR
 
 # Key Insights
 
