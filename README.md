@@ -16,3 +16,27 @@ Crafted a sleek dashboard integrating Cards, Area charts, treemap, Column and Ba
 4️⃣ 𝐅𝐢𝐧𝐝 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: After anlysing the data found some key insights as it will help HR to take decision accordingly.
 
 # HR_Analytics_Dashboard
+![Screenshot HR atliq](https://github.com/Abhay-kumar-10/Power_Bi_Project---HR_Analytics_Dashboard/assets/174067313/04475b7e-0821-4e0a-af7e-b3f84218659b)
+📊 𝐋𝐢𝐯𝐞 𝗜𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧 𝗗𝗮𝘀𝗵𝗯𝗼𝗮𝗿𝗱 :
+
+# Key Insights
+
+➡️ Presence % is highest in the month of April at 94%.
+
+
+➡️ Sick leave is lowest in the month of May, standing at 0.43%.
+
+
+➡️ Ayana Atkins had the overall maximum sick leave, which was 10%.
+
+
+➡️ Most sick leaves are taken on Mondays.
+
+
+➡️ WFH percentage holds steady at a 10% across all three months.
+
+
+➡️ The month of May has highest WFH percentage at 11.23%.
+
+
+➡️ Mondays boast the highest in-office attendance, while Fridays see the most WFH choices.
